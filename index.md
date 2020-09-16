@@ -33,6 +33,13 @@ __Bilecik University, Computer Engineering.__
 
 ## Experience
 
+
+`Jun 2017 - now`
+__Bigdata Teknoloji A.Ş.__, Istanbul  
+_Contract Front-End Developer_
+
+- It is a company where I work on a part time and contracted basis. The stacks: React, Redux, Ionic 
+
 `Jun 2017 - now`
 __Freelance Front-End Developer__, Global  
 _Front-End Developer_
