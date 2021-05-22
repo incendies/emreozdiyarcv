@@ -4,7 +4,7 @@ title: Berat Bozkurt's CV
 ---
 
 # Berat Bozkurt
-Front-End Developer
+Frontend Developer 
 
 | __E-Mail__   | [me@beratbozkurt.net](mailto:me@beratbozkurt.net)              | 
 | __Website__  | [beratbozkurt.net](https://beratbozkurt.net)                         |
@@ -14,20 +14,28 @@ Front-End Developer
 
 ## TLDR;
 
-- I'm a front-end developer
-- I use React, Next.js, Redux, Node.js.
-- I have a startup called [davetiyem.co](https://davetiyem.co)
-- I've been writing react native and vue recently.
+- I'm a fronteend developer
+- I use React, React Native, Redux.
+- I had a startup called [davetiyem.co](https://davetiyem.co)
+- I've been writing react, react native and jest recently.
 - You can see below for code examples, open source personal projects.
+
+## My Stacks
+
+- React, React Native, Next.js, Gatsby, Redux, Jest, Node.js
+- ESLint
+- Sass, Styled Component, Styled System
+- Gulp
+- Git
 
 ## Currently
 
-Freelance Front-End Developer & Work on my own startup
+Frontend Developer at Bigdata Teknoloji
 
 
 ## Education
 
-`2017-2022`
+`2017-2021`
 __Bilecik University, Computer Engineering.__
 
 
@@ -36,7 +44,7 @@ __Bilecik University, Computer Engineering.__
 
 `Jun 2017 - now`
 __Bigdata Teknoloji A.Ş.__, Istanbul  
-_Contract Front-End Developer_
+_Frontend Developer_
 
 - It is a company where I work on a part time and contracted basis. The stacks: React, Redux, Ionic 
 
@@ -44,7 +52,11 @@ _Contract Front-End Developer_
 __Freelance Front-End Developer__, Global  
 _Front-End Developer_
 
-- I have been working freelance on my life in university. My skills: React, Next.js, Node.js, Vue.js, React-Native
+I have been working freelance on my life in university.
+Worked with this stack:
+- React, React Native, Redux, Jest, Ionic
+- ESLint
+- Styled System
 
 `Jan 2019 - now`
 __Davetiyem.Co__, Turkey  
@@ -65,9 +77,9 @@ _Front-End Developer_
 ## Projects & Code Examples
 
 
-- `React, Next.js, Node.js, PostgreSQL` : [davetiyem.co](https://davetiyem.co/)
+- `React, Next.js, Node.js, PostgreSQL` : [github.com/berat/davetiyem.co-react](https://github.com/berat/Davetiyem.co-React)
 
-- `React, Next.js` : 
+- `Gatsby` : 
   - Source: [github.com/berat/homepage](https://github.com/berat/homepage)
   - Web: [beratbozkurt.net](https://beratbozkurt.net)
 
