@@ -106,5 +106,3 @@ _Front-End Developer_
   - NPM: [npmjs.com/package/pagination-react-hooks](https://www.npmjs.com/package/pagination-react-hooks)
   
 - `Flask(Python)` : [github.com/berat/flask-login-register-form](https://github.com/berat/flask-login-register-form)
-
-- `Markdown` : [github.com/berat/notebook](https://github.com/berat/notebook)
