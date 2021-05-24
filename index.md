@@ -14,7 +14,7 @@ Frontend Developer
 
 ## TLDR;
 
-- I'm a fronteend developer
+- I'm a frontend developer
 - I use React, React Native, Redux.
 - I had a startup called [davetiyem.co](https://davetiyem.co)
 - I've been writing react, react native and jest recently.
