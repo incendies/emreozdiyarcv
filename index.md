@@ -56,7 +56,7 @@ It is a company where I work on a part time and contracted basis. The stacks:
 __Freelance Front-End Developer__, Global  
 _Front-End Developer_
 
-- I have been working freelance on my life in university. My skills: React, Next.js, Node.js, Vue.js, React-Native
+I have been working freelance on my life in university. My skills: React, Next.js, Node.js, Vue.js, React-Native
 
 `Jan 2019 - now`
 __Davetiyem.Co__, Turkey  
