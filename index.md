@@ -42,7 +42,7 @@ __Bilecik University, Computer Engineering.__
 ## Experience
 
 
-`Jun 2017 - now`
+`Sep 2020 - now`
 __Bigdata Teknoloji A.Ş.__, Istanbul  
 _Frontend Developer_
 
