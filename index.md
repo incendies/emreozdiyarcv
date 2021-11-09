@@ -53,7 +53,7 @@ It is a company where I work on a part time and contracted basis. The stacks:
 - Styled Components (Styled Systems)
 
 
-`Jan 2019 - now`
+`Jan 2019 - 2020`
 __Davetiyem.Co__, Turkey  
 _Founder & Full Stack Developer_
 
