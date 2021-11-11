@@ -46,7 +46,7 @@ __Bilecik University, Computer Engineering.__
 __Bigdata Teknoloji A.Ş.__, Istanbul  
 _Frontend Developer_
 
-It is a company where I work on a part time and contracted basis. The stacks:
+I work full-time. The stacks:
 - React, React Native, Redux, Jest
 - Ionic
 - ESLint
