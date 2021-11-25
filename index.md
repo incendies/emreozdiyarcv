@@ -42,8 +42,14 @@ __Bilecik University, Computer Engineering.__
 ## Experience
 
 
-`Sep 2020 - now`
-__Bigdata Teknoloji A.Ş.__, Istanbul  
+`Dec 2021 - now`
+__OSF Digital__, Izmir, Turkey  
+_Frontend Developer_
+
+
+
+`Sep 2020 - Nov 2021`
+__Bigdata Teknoloji A.Ş.__, Istanbul, Turkey  
 _Frontend Developer_
 
 I work full-time. The stacks:
@@ -63,7 +69,7 @@ The project is where couples can create digital wedding invitation.
 
 
 `2015 - 2016`
-__Doruk Interaktif__, Ankara  
+__Doruk Interaktif__, Ankara, Turkey  
 _Front-End Developer_
 
 - I worked in office about Ankara a short time. I worked on my projects during my work.
