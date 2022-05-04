@@ -45,7 +45,10 @@ __Bilecik University, Computer Engineering.__
 `Dec 2021 - now`
 __OSF Digital__, Izmir, Turkey  
 _Frontend Developer_
-
+Worked with this stack:
+- Typescript, React, Redux, Saga, 
+- Styled Component, Sass
+- EsLint
 
 
 `Sep 2020 - Nov 2021`
