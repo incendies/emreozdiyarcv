@@ -4,12 +4,15 @@ title: Berat Bozkurt's CV
 ---
 
 # Berat Bozkurt
-I'm a frontend developer. I've been using Typescript, React, Redux, Saga, Styled Components on the frontend lately. I review each pull request and make suggestions, comments and recommendations that I find necessary. In this way, I also care about team development. 
+I'm a **frontend developer**. I've been using **Typescript, React, Redux, Saga, Styled Components** on the frontend lately. I review each pull request and make suggestions, comments and recommendations that I find necessary. In this way, I also care about team development. 
+**Email**: me@beratbozkurt.net 
+**Linkedin**: [linkedin.com/beratbozkurt](https://www.linkedin.com/in/beratbozkurt/)
+**Github**: [github.com/berat](https://github.com/berat)
 
 ## My Stacks
 
 - Typescript
--  Node.js
+- Node.js
 - React, React Native, Next.js, Gatsby, 
 - Redux, Jest
 - Sass, Styled Component, Styled System
