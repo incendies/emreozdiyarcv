@@ -1,11 +1,11 @@
-[berat.github.io/cv]: https://berat.github.io/cv
-[latest release]: https://github.com/berat/cv/releases/latest
+[incendies.github.io/emreozdiyarcv]: https://incendies.github.io/emreozdiyarcv/
+[latest release]: https://github.com/incendies/emreozdiyarcv/releases/latest
 
-# Source of Eralp Karaduman's CV
+# Source of Yunus Emre Özdiyar's CV
 
 | Website                       | PDF Version      |
 |----------------------------   |------------------|
-| [berat.github.io/cv] | [latest release] |
+| [incendies.github.io/emreozdiyarcv] | [latest release] |
 
 [![Build Status](https://travis-ci.org/eralpkaraduman/cv.svg?branch=gh-pages)](https://travis-ci.org/eralpkaraduman/cv)
 
