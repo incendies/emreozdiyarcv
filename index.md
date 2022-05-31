@@ -1,83 +1,61 @@
 ---
 layout: cv
-title: Berat Bozkurt's CV
+title: Yunus Emre Özdiyar's CV
 ---
 
-# Berat Bozkurt
-I'm a **frontend developer**. I've been using **Typescript, React, Redux, Saga, Styled Components** on the frontend lately. I review each pull request and make suggestions, comments and recommendations that I find necessary. In this way, I also care about team development. 
-<br/>
-**Email**: me@beratbozkurt.net 
-<br/>
-**Linkedin**: [linkedin.com/beratbozkurt](https://www.linkedin.com/in/beratbozkurt/)
-<br/>
-**Github**: [github.com/berat](https://github.com/berat)
+# Yunus Emre Özdiyar
+Full-Stack Developer
 
-## My Stacks
+| __E-Mail__   | [yunusemreozdiyar@gmail.com](mailto:yunusemreozdiyar@gmail.com)      | 
+| __Website__  | [metalshout.com](https://metalshout.com)                        |
+| __LinkedIn__ | [linkedin.com/in/yunusemreozdiyar](https://linkedin.com/in/yunusemreozdiyar) |
+| __Twitter__  | [twitter.com/emreozdiyar](https://twitter.com/emreozdiyar)       |
+| __GitHub__  | [github.com/incendies](https://github.com/incendies)         |
 
-- Typescript
-- Node.js
-- React, React Native, Next.js, Gatsby, 
-- Redux, Jest
-- Sass, Styled Component, Styled System
-- Git
+## Summary
+* Freelance Software Developer & Work on my own small projects 
+
+- I'm a full-stack developer
+- I use Python, JavaScript, GoLang, C#
+- I sold two websites [netflixjunkie.com](https://netflixjunkie.com) and [chaospin.com](https://chaospin.com) in 2021. 
+- I've been writing JavaScript, Python, GoLang, and C# 
+- You can see below for code examples, open source personal projects.
+
+## Education
+
+`2011-2017`
+__Istanbul University, Physics.__
+
+
+`2022-`
+__Freie Berlin University, Masters of Physics.__
 
 ## Experience
 
-`Dec 2021 - now`
-__OSF Digital__, Izmir, Turkey  
-_Frontend Developer_
-I worked with this stack:
-- Typescript, React, Redux, Saga, 
-- Styled Component, Sass
-- EsLint
+`Jun 2018 - now`
+__Freelance Software Developer__, Global  
+_mostly back-end and javascript projects_
+
+- I have been working freelance on my life and trying to write my thesis. My skills: Python, GoLang, JavaScript, Django, VueJS and etc...
+
+`April 2020 - now`
+__netflixjunkie.com__, Global, 
+_Founder & Editor-in-Chief_
 
 
-`Sep 2020 - Nov 2021`
-__Bigdata Teknoloji A.Ş.__, Istanbul, Turkey  
-_Frontend Developer_
-I worked with this stacks:
-- React, React Native, Redux, Jest
-- Ionic
-- ESLint
-- Styled Components (Styled Systems)
+`September 2018 - November 2018`
+__End-Point Labs__, Istanbul,
+_Back-End Developer_
 
-
-`Jan 2019 - 2020`
-__Davetiyem.Co__, Turkey  
-_Founder & Full Stack Developer_
-It was my startup. The startup is where couples can create digital wedding invitation.
-- I used React, Next.js, Node.js, PostgreSQL
-- And I manage all the other things.
-
-
-`2015 - 2016`
-__Doruk Interaktif__, Ankara, Turkey  
-_Front-End Developer_
-
-- I worked in office about Ankara a short time. I worked on my projects during my work.
+- I worked in Istanbul office for a short time and working under the Kondukto.io which also in this project I use GoLang and MongoDB.
 
 
 ## Projects & Code Examples
 
+- `Python, ReactJS` : 
+   Source: [github.com/incendies/movies](https://github.com/incendies/movies)
 
-- `React, Next.js, Node.js, PostgreSQL` : [github.com/berat/davetiyem.co-react](https://github.com/berat/Davetiyem.co-React)
+- `Django, Rest API` : [github.com/incendies/djangorestapitodo](https://github.com/incendies/djangorestapitodo)
 
-- `Typescript, React, Redux` : 
-  - Source: [github.com/berat/hipo-case](https://github.com/berat/hipo-case)
-  - Web: [hipo-case.vercel.app](https://hipo-case.vercel.app/search)
-- `Gatsby` : 
-  - Source: [github.com/berat/homepage](https://github.com/berat/homepage)
-  - Web: [beratbozkurt.net](https://beratbozkurt.net)
-
-- `React Native` : [github.com/berat/wordBox-react-native](https://github.com/berat/wordBox-react-native)
-
-- `React Native` : [github.com/berat/covid-app-react-native](https://github.com/berat/covid-app-react-native)
-
-- `React, Redux` : 
-  - Source: [github.com/berat/react-practical](https://github.com/berat/react-practical)
-  - Web: [practical-react.herokuapp.com](https://practical-react.herokuapp.com/)
-  
-- `Node.js, MongoDB` : [github.com/berat/react-practical-server](https://github.com/berat/react-practical-server)
-
-  
-  
+- `VueJS` :
+  Source: [github.com/incendies/loginpage-withvuejs](https://github.com/incendies/loginpage-withvuejs)
