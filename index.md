@@ -4,7 +4,7 @@ title: Yunus Emre Özdiyar's CV
 ---
 
 # Yunus Emre Özdiyar
-Full-Stack Developer
+Full-Stack Developer and SEO specialist
 
 | __E-Mail__   | [yunusemreozdiyar@gmail.com](mailto:yunusemreozdiyar@gmail.com)      | 
 | __Website__  | [metalshout.com](https://metalshout.com)                        |
@@ -15,9 +15,9 @@ Full-Stack Developer
 ## Summary
 * Freelance Software Developer & Work on my own small projects 
 
-- I'm a full-stack developer
+- I'm a full-stack developer and SEO specialist 
 - I use Python, JavaScript, GoLang, C#
-- I sold two websites [netflixjunkie.com](https://netflixjunkie.com) and [chaospin.com](https://chaospin.com) in 2021. 
+- I sold 4 websites [netflixjunkie.com](https://netflixjunkie.com) and [chaospin.com](https://chaospin.com) in 2021 and [thegamescabin.com](https://thegamescabin.com) and [corexbox.com](https://corexbox.com) in 2022. 
 - I've been writing JavaScript, Python, GoLang, and C# 
 - You can see below for code examples, open source personal projects.
 
@@ -32,11 +32,11 @@ __Freie Berlin University, Masters of Physics.__
 
 ## Experience
 
-`Jun 2018 - now`
+`Jun 2018 - July 2022`
 __Freelance Software Developer__, Global  
 _mostly back-end and javascript projects_
 
-- I have been working freelance on my life and trying to write my thesis. My skills: Python, GoLang, JavaScript, Django, VueJS and etc...
+- I have been working freelance on my life and trying to write my thesis. My skills: Python, GoLang, JavaScript, Django, VueJS, React and etc...
 
 `April 2020 - now`
 __netflixjunkie.com__, Global, 
