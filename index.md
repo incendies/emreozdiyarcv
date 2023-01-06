@@ -13,7 +13,7 @@ Full-Stack Developer and SEO specialist
 | __GitHub__  | [github.com/incendies](https://github.com/incendies)         |
 
 ## Summary
-* Freelance Software Developer & Work on my own small projects 
+* Software Developer & Work on my own small projects 
 
 - I'm a full-stack developer and SEO specialist 
 - I use Python, JavaScript, GoLang, C#
@@ -31,6 +31,10 @@ __Istanbul University, Physics.__
 __Freie Berlin University, Masters of Physics.__
 
 ## Experience
+
+`October 2022 - now`
+__wealthofgeeks.com and bosslevelgamer.com__, Global, 
+_SEO Specialist_
 
 `Jun 2018 - July 2022`
 __Freelance Software Developer__, Global  
