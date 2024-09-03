@@ -4,7 +4,7 @@ title: Yunus Emre Özdiyar's CV
 ---
 
 # Yunus Emre Özdiyar
-Full-Stack Developer and Senior SEO specialist
+Full-Stack Developer 
 
 | __E-Mail__   | [yunusemreozdiyar@gmail.com](mailto:yunusemreozdiyar@gmail.com)      | 
 | __Blog__  | [incendies.github.io/emreozdiyar-blog](https://incendies.github.io/emreozdiyar-blog/)    [Under construction]    |
@@ -13,12 +13,15 @@ Full-Stack Developer and Senior SEO specialist
 | __GitHub__  | [github.com/incendies](https://github.com/incendies)         |
 
 ## Summary
-* Software Developer & Work on my small projects 
+* Full-Stack Software Developer & Work on my small projects 
 
-- I'm a full-stack developer and SEO specialist 
+- I'm a Full-Stack developer and Senior SEO specialist 
 - I use Python, JavaScript (React, NodeJS), GoLang, C#
 - I sold 5 websites [netflixjunkie.com](https://netflixjunkie.com) and [chaospin.com](https://chaospin.com) in 2021 and [thegamescabin.com](https://thegamescabin.com) and [corexbox.com](https://corexbox.com) in 2022 [metalshout.com](https://metalshout.com) in 2023. 
-- I've been writing JavaScript, Python, GoLang, and C# 
+- I've been writing JavaScript, Python, GoLang, and C#
+- I can write code that complies with Solid Principles.
+- I have experience working with every type of SQL database system for example SQLite, Firebase, MySQL, and PostgreSQL.
+- I can easily implement my codes with Google Cloud, AWS, or other cloud services. 
 - You can see code examples and open-source personal projects below.
 
 ## Education
@@ -56,6 +59,9 @@ _Back-End Developer_
 
 ## Projects & Code Examples
 
+- `HTML, JavaScript (NodeJS), APIs` : 
+   Source: [github.com/incendies/discord-nodejs-bot]((https://github.com/incendies/discord-nodejs-bot))
+  
 - `HTML, GoLang, JavaScript, CSS` : 
    Source: [incendies.github.io/emreozdiyar-blog](https://incendies.github.io/emreozdiyar-blog/)
 
@@ -64,5 +70,5 @@ _Back-End Developer_
 
 - `Django, Rest API` : [github.com/incendies/djangorestapitodo](https://github.com/incendies/djangorestapitodo)
 
-- `VueJS` :
+- `VueJS, HTML, CSS` :
   Source: [github.com/incendies/loginpage-withvuejs](https://github.com/incendies/loginpage-withvuejs)
