@@ -16,7 +16,7 @@ Full-Stack Developer
 * Full-Stack Software Developer & Work on my small projects 
 
 - I'm a Full-Stack developer and Senior SEO specialist 
-- I use Python, JavaScript (React, NodeJS), GoLang, C#
+- I use JavaScript (React, NodeJS), PHP(Laravel, Symfony), GoLang,  Python, C#
 - I sold 5 websites [netflixjunkie.com](https://netflixjunkie.com) and [chaospin.com](https://chaospin.com) in 2021 and [thegamescabin.com](https://thegamescabin.com) and [corexbox.com](https://corexbox.com) in 2022 [metalshout.com](https://metalshout.com) in 2023. 
 - I've been writing JavaScript, Python, GoLang, and C#
 - I can write code that complies with Solid Principles.
