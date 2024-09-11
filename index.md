@@ -35,6 +35,11 @@ __Freie Berlin University, Masters of Physics.__
 
 ## Experience
 
+`December 2023 - now`
+__ Freelance Full Stack Developer and Game Developer 
+_mostly full stack and game development projects_
+
+
 `October 2022 - December 2023`
 __wealthofgeeks.com and bosslevelgamer.com__, USA, 
 _SEO Specialist_
