@@ -47,20 +47,17 @@ _SEO Specialist_
 `Jun 2018 - July 2022`
 __Freelance Software Developer__, Global  
 _mostly back-end and javascript projects_
-
-- I have been working freelance on my life and trying to write my thesis. My skills: Python, GoLang, JavaScript, Django, VueJS, React and etc...
+- I have been working freelance and trying to write my thesis.
 
 `April 2020 - September 2021`
 __netflixjunkie.com__, Global, 
 _Founder & Editor-in-Chief_
 
-
 `September 2018 - November 2018`
 __End-Point Labs__, Istanbul,
 _Back-End Developer_
 
-- I worked in Istanbul office for a short time and working under the Kondukto.io which also in this project I use GoLang and MongoDB.
-
+- I worked in Istanbul office for a short time and working under the Kondukto.io which also in this project I used GoLang and MongoDB for this project.
 
 ## Projects & Code Examples
 
