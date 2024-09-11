@@ -18,8 +18,7 @@ Full-Stack Developer
 - I'm a Full-Stack developer and Senior SEO specialist 
 - I use JavaScript (React, NodeJS), PHP(Laravel, Symfony), GoLang,  Python, C#
 - I sold 5 websites [netflixjunkie.com](https://netflixjunkie.com) and [chaospin.com](https://chaospin.com) in 2021 and [thegamescabin.com](https://thegamescabin.com) and [corexbox.com](https://corexbox.com) in 2022 [metalshout.com](https://metalshout.com) in 2023. 
-- I've been writing JavaScript, Python, GoLang, and C#
-- I can write code that complies with Solid Principles.
+- I've been writing JavaScript, Python, GoLang, and C#. I can write code that complies with Solid Principles.
 - I have experience working with every type of SQL database system for example SQLite, Firebase, MySQL, and PostgreSQL.
 - I can easily implement my codes with Google Cloud, AWS, or other cloud services. 
 - You can see code examples and open-source personal projects below.
@@ -56,7 +55,6 @@ _Founder & Editor-in-Chief_
 `September 2018 - November 2018`
 __End-Point Labs__, Istanbul,
 _Back-End Developer_
-
 - I worked in Istanbul office for a short time and working under the Kondukto.io which also in this project I used GoLang and MongoDB for this project.
 
 ## Projects & Code Examples
