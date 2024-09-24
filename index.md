@@ -2,7 +2,6 @@
 layout: cv
 title: Yunus Emre Özdiyar's CV
 ---
-
 # Yunus Emre Özdiyar
 Full-Stack Developer 
 
@@ -16,18 +15,17 @@ Full-Stack Developer
 * Full-Stack Software Developer & Work on my small projects 
 
 - I'm a Full-Stack developer and Senior SEO specialist 
-- I use JavaScript (React, NodeJS), PHP(Laravel, Symfony), GoLang,  Python, C#
+- I use JavaScript (React, VueJS, NodeJS, ExpressJS), PHP(Laravel, Symfony), Typescript, GoLang,  Python, C#
 - I sold 5 websites [netflixjunkie.com](https://netflixjunkie.com) and [chaospin.com](https://chaospin.com) in 2021 and [thegamescabin.com](https://thegamescabin.com) and [corexbox.com](https://corexbox.com) in 2022 [metalshout.com](https://metalshout.com) in 2023. 
 - I've been writing JavaScript, Python, GoLang, and C#. I can write code that complies with Solid Principles.
 - I have experience working with every type of SQL database system for example SQLite, Firebase, MySQL, and PostgreSQL.
 - I can easily implement my codes with Google Cloud, AWS, or other cloud services.
 - I have experience with CI/CD, Docker, Kubernetes, and AWS environments.
-- - You can see code examples and open-source personal projects below.
+- You can see code examples and open-source personal projects below.
 
 ## Education
 `2011-2017`
 __Istanbul University, Physics.__
-
 `2022-`
 __Freie Berlin University, Masters of Physics.__
 
@@ -52,9 +50,12 @@ _Founder & Editor-in-Chief_ & Full-Stack Developer
 `September 2018 - November 2018`
 __End-Point Labs__, Istanbul,
 _Back-End Developer_
-- I worked in Istanbul office for a short time and working under the Kondukto.io which also in this project I used GoLang and MongoDB for this project.
+- I worked in Istanbul office for a short time and worked under the Kondukto.io which also in this project I wrote GoLang and MongoDB for this project.
 
 ## Projects & Code Examples
+
+- `HTML, Typescript, Javascript, AI, CSS, APIs`, : 
+   Source: [[github.com/incendies/bg-removal-app](https://github.com/incendies/bg-removal-app)]
 
 - `HTML, JavaScript (NodeJS), APIs` : 
    Source: [github.com/incendies/discord-nodejs-bot]((https://github.com/incendies/discord-nodejs-bot))
