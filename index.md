@@ -15,12 +15,11 @@ Full-Stack Developer
 * Full-Stack Software Developer & Work on my small projects 
 
 - I'm a Full-Stack developer and Senior SEO specialist 
-- I use JavaScript (React, VueJS, NodeJS, ExpressJS), PHP(Laravel, Symfony), Typescript, C# (.NET) GoLang,  Python
-- I sold 5 websites [netflixjunkie.com](https://netflixjunkie.com) and [chaospin.com](https://chaospin.com) in 2021 and [thegamescabin.com](https://thegamescabin.com) and [corexbox.com](https://corexbox.com) in 2022 [metalshout.com](https://metalshout.com) in 2023. 
+- I use JavaScript (React, VueJS, NodeJS, ExpressJS), PHP(Laravel, Symfony), Typescript, C# (.NET) GoLang, Python
+- I exit 5 websites that I built: [netflixjunkie.com](https://netflixjunkie.com) and [chaospin.com](https://chaospin.com) in 2021 and [thegamescabin.com](https://thegamescabin.com) and [corexbox.com](https://corexbox.com) in 2022 [metalshout.com](https://metalshout.com) in 2023. 
 - I've been writing JavaScript, Python, GoLang, and C#. I can write code that complies with Solid Principles.
 - I have experience working with every type of SQL database system for example SQLite, Firebase, MySQL, and PostgreSQL.
-- I can easily implement my codes with Google Cloud, AWS, or other cloud services.
-- I have experience with CI/CD, Docker, Kubernetes, and AWS environments (Lambda, ECS, etc...).
+- I can easily implement my codes with Google Cloud, AWS, or other cloud services and experience with CI/CD, Docker, and AWS environments (Lambda, ECS, etc...).
 - You can see code examples and open-source personal projects below.
 
 ## Education
@@ -39,7 +38,7 @@ __wealthofgeeks.com and bosslevelgamer.com__, USA,
 _Senior SEO Specialist_
 
 `Jun 2018 - July 2022`
-__Freelance Software Developer__, Global  
+__Freelance Software Developer__, Upwork, Fiverr  
 _mostly back-end and javascript projects_
 - I have been working freelance and trying to write my thesis.
 
