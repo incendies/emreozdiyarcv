@@ -5,22 +5,22 @@ title: Yunus Emre Özdiyar's CV
 # Yunus Emre Özdiyar
 Full-Stack Developer 
 
-| __E-Mail__   | [yunusemreozdiyar@gmail.com](mailto:yunusemreozdiyar@gmail.com)    | 
-| __Blog__  | [incendies.github.io/emreozdiyar-blog](https://incendies.github.io/emreozdiyar-blog/)    [Under construction]   |
-| __LinkedIn__ | [linkedin.com/in/yunusemreozdiyar](https://linkedin.com/in/yunusemreozdiyar) |
-| __Twitter__  | [twitter.com/emreozdiyar](https://twitter.com/emreozdiyar)       |
-| __GitHub__  | [github.com/incendies](https://github.com/incendies)         |
+| __E-Mail__   | [yunusemreozdiyar@gmail.com](mailto:yunusemreozdiyar@gmail.com)  | 
+| __Blog__  | [incendies.github.io/emreozdiyar-blog](https://incendies.github.io/emreozdiyar-blog/)  [Under construction] |
+| __LinkedIn__ | [linkedin.com/in/yunusemreozdiyar](https://linkedin.com/in/yunusemreozdiyar)|
+| __Twitter__  | [twitter.com/emreozdiyar](https://twitter.com/emreozdiyar)   |
+| __GitHub__  | [github.com/incendies](https://github.com/incendies)     |
 
 ## Summary
 * Full-Stack Software Developer & Work on my small projects 
 
 - I'm a Full-Stack developer and Senior SEO specialist 
 - I use JavaScript (React, VueJS, NodeJS, ExpressJS), PHP(Laravel, Symfony), Typescript, C# (.NET) GoLang, Python
-- I've been writing JavaScript, Python, GoLang, and C#. I can write code that complies with Solid Principles. 
+- I've been writing JavaScript, Python, GoLang, and C#. I can write code that complies with Solid Principles.
+- I have experience with headless CMS systems like Strapi JS, Ghost, Sanity or others.
 - I have experience working with every type of SQL database system for example SQLite, Firebase, MySQL, and PostgreSQL.
-- I can easily implement my codes with Google Cloud, AWS, or other cloud services and experience with CI/CD, Docker, and AWS environments (Lambda, ECS, etc...). I have also experiences with headless CMS systems like Strapi JS, Ghost, Sanity or others.
+- I can easily implement my codes with Google Cloud, AWS, or others experience with CI/CD, Docker, and AWS environments (Lambda, ECS, etc...).
 - I exit 5 websites that I built: [netflixjunkie.com](https://netflixjunkie.com) and [chaospin.com](https://chaospin.com) in 2021 and [thegamescabin.com](https://thegamescabin.com) and [corexbox.com](https://corexbox.com) in 2022 [metalshout.com](https://metalshout.com) in 2023. 
-- You can see code examples and open-source personal projects below.
 
 ## Education
 `2011-2017`
@@ -40,11 +40,11 @@ _Senior SEO Specialist_
 `Jun 2018 - July 2022`
 __Freelance Software Developer__, Upwork, Fiverr  
 _mostly back-end and javascript projects_
-- I have been working freelance and trying to write my thesis.
+- I have been working as a freelance and trying to write a thesis.
 
 `April 2020 - September 2021`
-__netflixjunkie.com__, Global, 
-_Founder & Editor-in-Chief_ & Full-Stack Developer
+__netflixjunkie.com__, USA, 
+_Founder & Editor-in-Chief_ & Senior Software Developer
 
 `September 2018 - November 2018`
 __End-Point Labs__, Istanbul,
@@ -64,8 +64,6 @@ _Back-End Developer_
 
 - `Python, ReactJS` : 
    Source: [github.com/incendies/movies](https://github.com/incendies/movies)
-
-- `Django, Rest API` : [github.com/incendies/djangorestapitodo](https://github.com/incendies/djangorestapitodo)
-
+  
 - `VueJS, HTML, CSS` :
   Source: [github.com/incendies/loginpage-withvuejs](https://github.com/incendies/loginpage-withvuejs)
