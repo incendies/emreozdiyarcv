@@ -57,7 +57,7 @@ _Back-End Developer_
    Source: [[github.com/incendies/bg-removal-app](https://github.com/incendies/bg-removal-app)]
 
 - `HTML, JavaScript (NodeJS), APIs` : 
-   Source: [github.com/incendies/discord-nodejs-bot]((https://github.com/incendies/discord-nodejs-bot))
+   Source: [[github.com/incendies/discord-nodejs-bot]((https://github.com/incendies/discord-nodejs-bot))
   
 - `HTML, GoLang, JavaScript, CSS` : 
    Source: [incendies.github.io/emreozdiyar-blog](https://incendies.github.io/emreozdiyar-blog/)
