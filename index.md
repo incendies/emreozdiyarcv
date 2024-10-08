@@ -8,7 +8,6 @@ Full-Stack Developer
 | __E-Mail__   | [yunusemreozdiyar@gmail.com](mailto:yunusemreozdiyar@gmail.com)  | 
 | __Blog__  | [incendies.github.io/emreozdiyar-blog](https://incendies.github.io/emreozdiyar-blog/)  [Under construction] |
 | __LinkedIn__ | [linkedin.com/in/yunusemreozdiyar](https://linkedin.com/in/yunusemreozdiyar)|
-| __Twitter__  | [twitter.com/emreozdiyar](https://twitter.com/emreozdiyar)   |
 | __GitHub__  | [github.com/incendies](https://github.com/incendies)     |
 
 ## Summary
@@ -32,7 +31,7 @@ __Freie Berlin University, Masters of Physics.__
 `December 2023 - now`
 __ Freelance Full Stack Developer and Game Developer 
 _mostly full stack and game development projects
-- Working with some of the individual and startup projects with using NodeJS, ExpressJS, NextJS, React, Typescript, PHP everything on your need.
+- Working with some of the individuals and startup projects using with NodeJS, ExpressJS, NextJS, React, Typescript, PHP and everything on your need.
 
 `October 2022 - December 2023`
 __wealthofgeeks.com and bosslevelgamer.com__, USA, 
@@ -52,7 +51,7 @@ _Founder & Editor-in-Chief_ & Senior Software Developer
 `September 2018 - November 2018`
 __End-Point Labs__, Istanbul,
 _Back-End Developer_
-- I worked in the Istanbul office for a short time and worked under the Kondukto.io which also in this project I wrote GoLang and MongoDB for this project. We were dealing with security leaks and components. 
+- I worked on the Kondukto.io project and also in this project I wrote GoLang and MongoDB. We're focused on security leaks and features. 
 
 ## Projects & Code Examples
 
