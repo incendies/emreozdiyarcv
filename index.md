@@ -36,7 +36,7 @@ _mostly full stack and game development projects
 `October 2022 - December 2023`
 __wealthofgeeks.com and bosslevelgamer.com__, USA, 
 _Senior SEO Specialist_ 
-- I was responsible for technical SEO tasks such as URL structure, crawling and indexing APIs, structured data, 301 redirects, 404 pages, XML sitemaps, and Google Search Console. I also fixed every other SEO problem. WoG increased monthly visitors from 600,000 to 2.6 million during my time.
+- I was responsible for technical SEO tasks such as URL structure, crawling and indexing, structured data, 301 redirects, 404 pages, and Google Search Console. I also managed over 50 editors and fixed every additional SEO problem. WoG increased monthly visitors from 600,000 to 2.6 million during my time.
 
 `Jun 2018 - July 2022`
 __Freelance Software Developer__, Upwork, Fiverr  
