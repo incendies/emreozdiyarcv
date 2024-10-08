@@ -24,6 +24,7 @@ Full-Stack Developer
 ## Education
 `2011-2017`
 __Istanbul University, Physics.__
+
 `2022-`
 __Freie Berlin University, Masters of Physics.__
 
