@@ -12,14 +12,13 @@ Full-Stack Developer
 | __GitHub__  | [github.com/incendies](https://github.com/incendies)     |
 
 ## Summary
-* Full-Stack Software Developer & Work on my small projects 
-
+* Full-Stack Software Developer & Work on my small projects
+  
 - I'm a Full-Stack developer and Senior SEO specialist 
-- I use JavaScript (React, VueJS, NodeJS, ExpressJS), PHP(Laravel, Symfony), Typescript, C# (.NET) GoLang, Python
-- I've been writing JavaScript, Python, GoLang, and C#. I can write code that complies with Solid Principles.
-- I have experience with headless CMS systems like Strapi JS, Ghost, Sanity or others.
+- I specialize in JavaScript (React, VueJS, NodeJS, ExpressJS), PHP(Laravel, Symfony), Typescript, C# (.NET) GoLang, and Python. I can write code that complies with Solid Principles.
+- I have experience with headless CMS systems like Strapi JS, Ghost, Sanity, and others.
 - I have experience working with every type of SQL database system for example SQLite, Firebase, MySQL, and PostgreSQL.
-- I can easily implement my codes with Google Cloud, AWS, or others experience with CI/CD, Docker, and AWS environments (Lambda, ECS, etc...).
+- I can easily execute my codes with Google Cloud, and AWS. Also, with CI/CD, Docker, and AWS environments (Lambda, ECS, etc...).
 - I exit 5 websites that I built: [netflixjunkie.com](https://netflixjunkie.com) and [chaospin.com](https://chaospin.com) in 2021 and [thegamescabin.com](https://thegamescabin.com) and [corexbox.com](https://corexbox.com) in 2022 [metalshout.com](https://metalshout.com) in 2023. 
 
 ## Education
@@ -31,11 +30,13 @@ __Freie Berlin University, Masters of Physics.__
 ## Experience
 `December 2023 - now`
 __ Freelance Full Stack Developer and Game Developer 
-_mostly full stack and game development projects_
+_mostly full stack and game development projects
+- Working with some of the individual and startup projects with using NodeJS, ExpressJS, NextJS, React, Typescript, PHP everything on your need.
 
 `October 2022 - December 2023`
 __wealthofgeeks.com and bosslevelgamer.com__, USA, 
-_Senior SEO Specialist_
+_Senior SEO Specialist_ 
+- I was responsible for technical SEO tasks such as URL structure, crawling and indexing APIs, structured data, 301 redirects, 404 pages, xml sitemaps, and Google Search Console. I also fixed every other SEO problem. 
 
 `Jun 2018 - July 2022`
 __Freelance Software Developer__, Upwork, Fiverr  
@@ -45,11 +46,12 @@ _mostly back-end and javascript projects_
 `April 2020 - September 2021`
 __netflixjunkie.com__, USA, 
 _Founder & Editor-in-Chief_ & Senior Software Developer
+- mostly I scale the website to reach over 500.000 visitors with PHP, MYSQL, and with WordPress 
 
 `September 2018 - November 2018`
 __End-Point Labs__, Istanbul,
 _Back-End Developer_
-- I worked in Istanbul office for a short time and worked under the Kondukto.io which also in this project I wrote GoLang and MongoDB for this project.
+- I worked in the Istanbul office for a short time and worked under the Kondukto.io which also in this project I wrote GoLang and MongoDB for this project. We were dealing with security leaks and components. 
 
 ## Projects & Code Examples
 
