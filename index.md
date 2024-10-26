@@ -4,6 +4,7 @@ title: Yunus Emre Özdiyar's CV
 ---
 # Yunus Emre Özdiyar
 Full-Stack Developer 
+
 | __E-Mail__   | [yunusemreozdiyar@gmail.com](mailto:yunusemreozdiyar@gmail.com)  | 
 | __Blog__  | [incendies.github.io/emreozdiyar-blog](https://incendies.github.io/emreozdiyar-blog/)  [Under construction] |
 | __LinkedIn__ | [linkedin.com/in/yunusemreozdiyar](https://linkedin.com/in/yunusemreozdiyar)|
