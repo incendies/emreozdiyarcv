@@ -11,7 +11,7 @@ Full-Stack Developer
 | __GitHub__  | [github.com/incendies](https://github.com/incendies)     |
 
 ## Summary
-* Full-Stack Software Developer & Work on my small projects
+* Full-Stack Software Developer
   
 - I'm a Full-Stack developer and Senior SEO specialist 
 - I specialize in JavaScript (React, VueJS, NodeJS, ExpressJS), PHP(Laravel, Symfony), Typescript, C# (.NET) GoLang, and Python. I can write code that complies with Solid Principles.
