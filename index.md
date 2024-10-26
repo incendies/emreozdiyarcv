@@ -4,15 +4,12 @@ title: Yunus Emre Özdiyar's CV
 ---
 # Yunus Emre Özdiyar
 Full-Stack Developer 
-
 | __E-Mail__   | [yunusemreozdiyar@gmail.com](mailto:yunusemreozdiyar@gmail.com)  | 
 | __Blog__  | [incendies.github.io/emreozdiyar-blog](https://incendies.github.io/emreozdiyar-blog/)  [Under construction] |
 | __LinkedIn__ | [linkedin.com/in/yunusemreozdiyar](https://linkedin.com/in/yunusemreozdiyar)|
 | __GitHub__  | [github.com/incendies](https://github.com/incendies)     |
 
 ## Summary
-* Full-Stack Software Developer
-  
 - I'm a Full-Stack developer and Senior SEO specialist 
 - I specialize in JavaScript (React, VueJS, NodeJS, ExpressJS), PHP(Laravel, Symfony), Typescript, C# (.NET) GoLang, and Python. I can write code that complies with Solid Principles.
 - I have experience with headless CMS systems like Strapi JS, Ghost, Sanity, and others.
@@ -30,8 +27,7 @@ __Freie Berlin University, Masters of Physics.__
 ## Experience
 `December 2023 - now`
 __ Freelance Full Stack Developer and Game Developer 
-_mostly full stack and game development projects
-- Working with some of the individuals and startup projects using with NodeJS, ExpressJS, NextJS, React, Typescript, PHP and everything on your need.
+- Working with some individuals and startup projects using NodeJS, ExpressJS, NextJS, React, Typescript, PHP and everything you need. Also, I make a small game. 
 
 `October 2022 - December 2023`
 __wealthofgeeks.com and bosslevelgamer.com__, USA, 
@@ -40,8 +36,7 @@ _Senior SEO Specialist_
 
 `Jun 2018 - July 2022`
 __Freelance Software Developer__, Upwork, Fiverr  
-_mostly back-end and javascript projects_
-- I have been working as a freelance and trying to write a thesis.
+- I have been working as a freelance back-end and frontend projects and writing my final thesis.
 
 `April 2020 - September 2021`
 __netflixjunkie.com__, USA, 
@@ -60,9 +55,6 @@ _Back-End Developer_
 
 - `HTML, JavaScript (NodeJS), APIs` : 
    Source: [[github.com/incendies/discord-nodejs-bot](https://github.com/incendies/discord-nodejs-bot)]
-  
-- `HTML, GoLang, JavaScript, CSS` : 
-   Source: [incendies.github.io/emreozdiyar-blog](https://incendies.github.io/emreozdiyar-blog/)
 
 - `Python, ReactJS` : 
    Source: [github.com/incendies/movies](https://github.com/incendies/movies)
