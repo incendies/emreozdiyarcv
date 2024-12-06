@@ -32,7 +32,7 @@ __ Freelance Full Stack Developer and Game Developer
 `October 2022 - December 2023`
 __wealthofgeeks.com and bosslevelgamer.com__, USA, 
 _Head of SEO_ 
-- I was responsible for technical SEO tasks such as URL structure, crawling and indexing, structured data, 301 redirects, 404 pages, and Google Search Console. I also managed over 50 editors and fixed every additional SEO problem. WoG increased monthly visitors from 600,000 to 2.6 million during my time.
+- I was responsible for technical SEO tasks such as URL structure, crawling and indexing, structured data, 301 redirects, 404 pages, and Google Search Console. I managed over 50 editors and fixed every additional SEO problem. WoG increased monthly visitors from 600,000 to 2.6 million during my time.
 
 `Jun 2018 - July 2022`
 __Freelance Software Developer__, Upwork, Fiverr  
@@ -41,12 +41,16 @@ __Freelance Software Developer__, Upwork, Fiverr
 `April 2020 - September 2021`
 __netflixjunkie.com__, USA, 
 _Founder & Editor-in-Chief_ & Senior Software Developer
-- mostly I scale the website to reach over 500.000 visitors with PHP, MYSQL, and with WordPress 
+- mostly I scale the website from scratch over 500.000 visitors with PHP, MYSQL, and with WordPress.
 
 `September 2018 - November 2018`
 __End-Point Labs__, Istanbul,
 _Back-End Developer_
-- I worked on the Kondukto.io project and also in this project I wrote GoLang and MongoDB. We're focused on security leaks and features. 
+- I worked on the Kondukto.io project and also in this project I wrote GoLang and MongoDB. We're focused on security leaks and features.
+
+`November 2013 - September 2018`
+__Freelancer Software Developer__
+- I worked with several commercial and startup companies in Istanbul. 
 
 ## Projects & Code Examples
 
