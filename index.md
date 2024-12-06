@@ -13,7 +13,7 @@ Full-Stack Developer
 ## Summary
 - I'm a Full-Stack developer and Senior SEO specialist 
 - I specialize in JavaScript (React, VueJS, NodeJS, ExpressJS), PHP(Laravel, Symfony), Typescript, C# (.NET) GoLang, and Python. I can write code that complies with Solid Principles. 
-- I have experience with headless CMS systems like Strapi JS, Ghost, Sanity, and others. I have experience working with every type of SQL database system for example SQLite, Firebase, MySQL, and PostgreSQL.
+- I have experience with headless CMS systems like Strapi JS, Ghost, Sanity, and others. I've experience working with every type of SQL database system for example SQLite, Firebase, MySQL, and PostgreSQL.
 - I can easily execute my codes with Google Cloud, and AWS. Also, with CI/CD, Docker, and AWS environments (Lambda, ECS, etc...).
 - I exit 5 websites that I built: [netflixjunkie.com](https://netflixjunkie.com) and [chaospin.com](https://chaospin.com) in 2021 and [thegamescabin.com](https://thegamescabin.com) and [corexbox.com](https://corexbox.com) in 2022 [metalshout.com](https://metalshout.com) in 2023. 
 
