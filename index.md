@@ -21,7 +21,7 @@ Full-Stack Developer
 `2011-2017`
 __Istanbul University, Physics.__
 
-`2022-`
+`2022-2023`
 __Freie Berlin University, Masters of Physics.__
 
 ## Experience
